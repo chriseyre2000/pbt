@@ -1,21 +1,10 @@
 # Pbt
 
-**TODO: Add description**
+Property Based Testing
 
-## Installation
+This is a worked example (in Elixir) from 
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `pbt` to your list of dependencies in `mix.exs`:
+https://pragprog.com/book/fhproper/property-based-testing-with-proper-erlang-and-elixir
 
-```elixir
-def deps do
-  [
-    {:pbt, "~> 0.1.0"}
-  ]
-end
-```
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/pbt](https://hexdocs.pm/pbt).
 
